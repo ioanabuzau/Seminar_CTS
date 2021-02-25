@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41aece6d-9b84-4e96-97cc-8a3a0cbc1e35" name="Default Changelist" comment="Main" />
+    <list default="true" id="41aece6d-9b84-4e96-97cc-8a3a0cbc1e35" name="Default Changelist" comment="Main 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_1/MainPack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_1/MainPack/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614240712232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Main">
+      <created>1614240748444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614240748444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,6 +82,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main" />
+    <MESSAGE value="Main 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2040" y="0" key="#Project_Structure" timestamp="1614240579278">
+      <screen x="1920" y="0" width="1280" height="770" />
+    </state>
+    <state x="2040" y="0" key="#Project_Structure/0.0.1920.1050/1920.0.1280.770@1920.0.1280.770" timestamp="1614240579278" />
+    <state x="2339" y="126" key="FileChooserDialogImpl" timestamp="1614240477131">
+      <screen x="1920" y="0" width="1280" height="770" />
+    </state>
+    <state x="2339" y="126" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1280.770@1920.0.1280.770" timestamp="1614240477131" />
+    <state x="2152" y="118" key="Vcs.Push.Dialog.v2" timestamp="1614240756050">
+      <screen x="1920" y="0" width="1280" height="770" />
+    </state>
+    <state x="2152" y="118" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1280.770@1920.0.1280.770" timestamp="1614240756050" />
+    <state x="1942" y="5" key="new project wizard" timestamp="1614240634602">
+      <screen x="1920" y="0" width="1280" height="770" />
+    </state>
+    <state x="1942" y="5" key="new project wizard/0.0.1920.1050/1920.0.1280.770@1920.0.1280.770" timestamp="1614240634602" />
+    <state x="2223" y="91" width="672" height="678" key="search.everywhere.popup" timestamp="1614241238575">
+      <screen x="1920" y="0" width="1280" height="770" />
+    </state>
+    <state x="2223" y="91" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1280.770@1920.0.1280.770" timestamp="1614241238575" />
   </component>
 </project>
