@@ -1,5 +1,7 @@
 package ro.ase.cts.classes;
 
+import java.util.Arrays;
+
 public abstract class Aplicant{
 	protected String nume;
 	protected String prenume;
@@ -39,9 +41,6 @@ public abstract class Aplicant{
 		this.punctaj = punctaj;
 	}
 	
-	
-
-	
 	public Aplicant() {
 		super();
 		// TODO Auto-generated constructor stub
@@ -66,5 +65,12 @@ public abstract class Aplicant{
 		this.denumireProiect = denumireProiect;
 		this.nr_proiecte = nrProiecte;
 	}
-
+	public abstract void afisareSumaFinantata() ;
+	@Override
+	public String toString() {
+		
+		return  "Nume=" + nume + ", Prenume=" + prenume
+				+ ", Varsta=" + varsta + ", Punctaj=" + punctaj + ", Nr_proiecte=" + nr_proiecte + ", DenumireProiect="
+				+ Arrays.toString(denumireProiect);
+	}
 }
