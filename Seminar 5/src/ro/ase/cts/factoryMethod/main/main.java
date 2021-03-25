@@ -2,6 +2,7 @@ package ro.ase.cts.factoryMethod.main;
 
 import ro.ase.cts.factoryMethod.FactoryPersonal;
 import ro.ase.cts.factoryMethod.PersonalSpital;
+import ro.ase.cts.factoryMethod.factoryAnestezist;
 import ro.ase.cts.factoryMethod.factoryAsistent;
 import ro.ase.cts.factoryMethod.factoryMedic;
 
@@ -13,7 +14,7 @@ public class main {
 	  
 	  // daca dorim sa mai adaugam o entitate ex: Anestezist, mai adaugam doar clasa anestezist si o clasa factoryAnestezist
 	    public static void main(String[] args) {
-	        FactoryPersonal factoryPersonal = new factoryMedic();
+	        FactoryPersonal factoryPersonal = new factoryAnestezist();
 	        printeazaPersonalSpital(factoryPersonal, "Ion", 1200);
 	    }
 }
