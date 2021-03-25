@@ -1,4 +1,8 @@
-package ro.ase.cts.simpleFactory;
+package ro.ase.cts.simpleFactory.main;
+
+import ro.ase.cts.simpleFactory.FactoryPersonal;
+import ro.ase.cts.simpleFactory.PersonalSpital;
+import ro.ase.cts.simpleFactory.TipPersonal;
 
 public class Program {
 
