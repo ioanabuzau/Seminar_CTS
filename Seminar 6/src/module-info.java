@@ -1,2 +1,2 @@
-module sem06 {
+module sem06s {
 }
