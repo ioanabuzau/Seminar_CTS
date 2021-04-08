@@ -1,2 +1,0 @@
-module sem06s {
-}
