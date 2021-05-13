@@ -14,7 +14,7 @@ public class FlyweightFactory {
 		Flyweight flyweight = clienti.get(nrTelefon);
 		
 		if(flyweight==null) {
-			flyweight = new Client("Ioana", nrTelefon,"sf@email.com");
+			flyweight = new Cilent("Ioana", nrTelefon,"sf@email.com");
 			clienti.put(nrTelefon, flyweight);
 		}
 		return flyweight;
