@@ -1,9 +1,9 @@
-package ro.ase.acs.main;
+package ro.ase.acs.observer.main;
 
-import ro.ase.acs.clase.ClientFidel;
-import ro.ase.acs.clase.ManagerSala;
-import ro.ase.acs.clase.ManagerSalaAbstract;
-import ro.ase.acs.clase.Observer;
+import ro.ase.acs.observer.clase.ClientFidel;
+import ro.ase.acs.observer.clase.ManagerSala;
+import ro.ase.acs.observer.clase.ManagerSalaAbstract;
+import ro.ase.acs.observer.clase.Observer;
 
 public class Main {
 

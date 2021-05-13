@@ -1,4 +1,4 @@
-package ro.ase.acs.clase;
+package ro.ase.acs.observer.clase;
 
 public class ClientFidel implements Observer {
 

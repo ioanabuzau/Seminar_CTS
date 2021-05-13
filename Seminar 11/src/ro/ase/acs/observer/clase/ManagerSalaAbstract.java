@@ -1,4 +1,4 @@
-package ro.ase.acs.clase;
+package ro.ase.acs.observer.clase;
 
 import java.util.ArrayList;
 import java.util.List;
